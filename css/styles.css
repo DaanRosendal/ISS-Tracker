@@ -4,7 +4,7 @@
 }
 
 html {
-    background: url(../images/space.png) no-repeat center center fixed;
+    background: url(../images/space.png) center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -12,10 +12,6 @@ html {
     font-family: Casanova;
     text-align: center;
     color: white;
-}
-
-body {
-    background-color: black;
 }
 
 #lat,
