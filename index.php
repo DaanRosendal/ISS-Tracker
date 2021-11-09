@@ -16,13 +16,13 @@
 </head>
 
 <body>
-    <h1>Waar is het International Space Station?</h1>
+    <h1>Where is the International Space Station?</h1>
     <p style="margin-top: 2em; margin-bottom: 2em; font-size: 1.2em;">
         <span style="margin-right: 2em; display:inline-block;">
-            <i class="fas fa-arrows-alt-h"></i> Breedtegraad: <span id="lat"></span>
+            <i class="fas fa-arrows-alt-h"></i> Latitude: <span id="lat"></span>
         </span>
         <span style="display:inline-block;">
-            <i class="fas fa-arrows-alt-v"></i> Lengtegraad: <span id="lon"></span>
+            <i class="fas fa-arrows-alt-v"></i> Longitude: <span id="lon"></span>
         </span>
     </p>
 
